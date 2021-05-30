@@ -1,0 +1,5 @@
+ID       Name        Department
+
+1       Bhargawa        CSE
+
+2       Mani        ECE
